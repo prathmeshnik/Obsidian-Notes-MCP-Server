@@ -119,4 +119,4 @@ Retrieves the raw text content of a specified note.
 ## Further Information
 
 For a detailed breakdown and comprehensive information regarding the Obsidian Notes MCP Server, please visit:
-[project-breakdown101.web.app](https://project-breakdown101.web.app/)
+[project-breakdown101.web.app](https://project-breakdown101.web.app/docs?page=MCP/README.md)
